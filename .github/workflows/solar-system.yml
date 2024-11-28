@@ -68,6 +68,6 @@ jobs:
        with:
         context: .
         push: true
-        tags: 'ghcr.io/Vrinda1725/solar-system:${{ github.sha }}'
+        tags: 'ghcr.io/vrinda1725/solar-system:${{ github.sha }}'
 
             
